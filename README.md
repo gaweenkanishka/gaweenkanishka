@@ -1,4 +1,4 @@
-# Hi there 👋 WELCOMETO MY PROFILE #
+# Hi there 👋 WELCOMETO MY GITHUB #
 😍𝗦𝗼 𝗵𝗮𝗽𝗽𝘆 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝗺𝘆 CODE 𝘄𝗶𝘁𝗵 𝙮𝙤𝙪😎
 
 Here are some ideas to get you started:
@@ -21,14 +21,11 @@ Here are some ideas to get you started:
 
 🔴 <strong>Frameworks</strong>
 
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 🔴 <strong>Libraries</strong>
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 🔴 <strong>Databases</strong>
 
